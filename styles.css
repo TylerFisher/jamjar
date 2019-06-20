@@ -67,10 +67,13 @@ button {
     color: #EFA488;
     text-transform: uppercase;
     font-weight: bold;
+    transition: all 0.1s ease-in;
 }
 
 button:hover {
     cursor: pointer;
+    background-color: #EE2466;
+    color: white;
 }
 
 footer {
