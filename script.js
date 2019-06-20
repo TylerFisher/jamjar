@@ -1,6 +1,6 @@
 var TEMPOS = ['slow', 'fast', 'mid-tempo'];
 var TIME_SIGNATURES = ['4/4', '6/8'];
-var INSTRUMENTS = ['rack tom', 'floor tom', 'crash', 'ride', 'hi hat', 'snare', 'bass drum', 'rim', 'ride bell'];
+var INSTRUMENTS = ['rack tom', 'floor tom', 'crash', 'ride', 'hi-hat', 'snare', 'bass drum', 'rim', 'ride bell'];
 var EMOTIONS = ['disgust', 'sorrow', 'lust', 'anger', 'power', 'love', 'loss', 'confusion', 'fear', 'distress', 'hopelessness', 'hope', 'jealousy', 'longing', 'excitement'];
 
 var sentence = document.querySelector('.sentence');
